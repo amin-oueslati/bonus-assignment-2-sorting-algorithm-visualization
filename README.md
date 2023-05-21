@@ -6,7 +6,7 @@ Data Structures & Algorithms S-2023 | Hertie School | Extra Credit Assignment 2 
 
 ## Scope
 
-In this project we develop a an animated visualization for an insertion sort algorithm using Matplotlib animation. The visulization displays the user the current state of the array after each sorting iteration, while keeping track of the number of iterations necessary to fully sort the array. 
+In this project we develop an animated visualization for an insertion sort algorithm using Matplotlib animation. The visualization displays to the user the current state of the array after each sorting iteration, while keeping track of the number of iterations.
 
 ## Use
 
